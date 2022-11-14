@@ -1,3 +1,3 @@
-commit 1
-conflict 2
+qconflict 1
+
 
